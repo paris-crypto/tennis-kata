@@ -1,7 +1,11 @@
 package com.tennis.kata;
 
+/**
+ * User story 1 sprint 2
+ */
 public class TennisGame2 implements TennisGame
 {
+
     public int P1point = 0;
     public int P2point = 0;
     
